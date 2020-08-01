@@ -3,5 +3,8 @@ public class NewB20 {
         System.out.println("New Class");
         // new lines
         System.out.println("Adding lines");
+        // add more lines
+        System.out.println("add more lines");
     }
 }
+
